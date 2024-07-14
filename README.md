@@ -33,7 +33,7 @@ git clone https://github.com/evelasco93/javascript-rpg.git
 
 3) Enjoy repelling your first dragon!
 
-*** Feel free to use the code as needed, this was based off this project: https://replit.com/@BeauCarnes/JavaScript-RPG-Starter#index.html ***
+Feel free to use the code as needed, this was based off of this project: https://replit.com/@BeauCarnes/JavaScript-RPG-Starter#index.html
 
-All credit goes to the original creator of the base files
+<> All credit goes to the original creator of the base files <>
 
